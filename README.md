@@ -50,6 +50,10 @@ Optional (alternative providers):
 - **OpenAI API Key** (if you prefer OpenAI instead of Groq)
 - **Bing Web Search API Key** (for live internet-sourced answers when using web search)
 
+## Quick Start
+
+👉 **See `RUNNING_LOCALLY.md` for minimal setup steps** — shows exactly how to add API keys and run the project.
+
 ## Installation
 
 1. **Clone or download the project** to your local machine
